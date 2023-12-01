@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin membuat akun dengan mengisi username mengandung spasi</description>
+   <name>TC-DFTR-01-04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaecc2b7-e9e7-49b3-a251-ecb62eb11fd9</testCaseGuid>
+</TestCaseEntity>

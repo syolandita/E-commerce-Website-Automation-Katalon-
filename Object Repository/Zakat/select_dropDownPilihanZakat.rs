@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_dropDownPilihanZakat</name>
+   <tag></tag>
+   <elementGuidId>806d6b96-dc03-4aad-9e63-2338d9393616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='jenis']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;jenis&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d4c8117c-7af4-4a5f-aa47-d2fffcdf24a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-auth</value>
+      <webElementGuid>c9ff4935-a3f1-4dd4-96e3-e13a01237e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis</value>
+      <webElementGuid>d359c5a9-bcd1-4515-adbf-8c80f8f3c52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zakat MaalZakat ProfesiZakat Fitrah</value>
+      <webElementGuid>42971f2b-93e1-4137-bba3-11c6b711be1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;loaded&quot;]/div[@class=&quot;ps-order-tracking&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ps-section__content&quot;]/form[@class=&quot;ps-form--order-tracking&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control form-auth&quot;]</value>
+      <webElementGuid>25fe6459-e4c6-4f34-9315-8a23a1f48a2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='jenis']</value>
+      <webElementGuid>b77e99a1-f6aa-49fe-ba04-1e5754e7eb0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Zakat *'])[1]/following::select[1]</value>
+      <webElementGuid>9022b913-e529-4bd7-b316-9e92dcc37b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jemput Zakat Online'])[3]/following::select[1]</value>
+      <webElementGuid>04ac3d64-87ea-4882-be18-fdec14a4e73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap *'])[1]/preceding::select[1]</value>
+      <webElementGuid>cb92b17c-7bb1-49ea-bd93-086471c9be44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone *'])[1]/preceding::select[1]</value>
+      <webElementGuid>762a972c-772a-4d47-a7a9-28bb7c1d4c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/form/div/select</value>
+      <webElementGuid>ecb81154-0d63-4ee2-99f2-e70e754f8532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis' and (text() = 'Zakat MaalZakat ProfesiZakat Fitrah' or . = 'Zakat MaalZakat ProfesiZakat Fitrah')]</value>
+      <webElementGuid>3f192f5b-da3a-4636-8ef6-0691d6ff96ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

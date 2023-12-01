@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user menekan tombol perjanjian pengguna</description>
+   <name>TC-DFTR-01-20</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f33ef2e1-e0bc-4107-be00-b9d177305550</testCaseGuid>
+</TestCaseEntity>

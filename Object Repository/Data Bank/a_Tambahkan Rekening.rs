@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambahkan Rekening</name>
+   <tag></tag>
+   <elementGuidId>fb6a4e5e-d80c-4fc4-897a-9aeddb555d1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[10]/div/div/div/div[1]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ps-btn.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f1fdd6a-1855-4ca4-aac8-fd73fedb4a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://10.9.2.63/ecommerce/members/tambah_rekening_bank</value>
+      <webElementGuid>42eefd3b-4110-4b69-bfdd-5316a78570a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps-btn btn-block</value>
+      <webElementGuid>bba92fbd-840a-42c1-9e66-f16c764d1a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambahkan Rekening</value>
+      <webElementGuid>a63d8c2d-4130-4783-b23a-86681335e8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;loaded&quot;]/div[@class=&quot;ps-vendor-dashboard pro&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ps-section__content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12&quot;]/a[@class=&quot;ps-btn btn-block&quot;]</value>
+      <webElementGuid>b73b1b9b-ccdb-4bd2-8810-467cc657ff8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadi Kurir'])[1]/following::a[1]</value>
+      <webElementGuid>171388d6-7ac9-4e48-9a0e-7986862a6900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPOB'])[3]/following::a[2]</value>
+      <webElementGuid>6c3c955b-05ef-4e0b-82d2-919abe0688a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://10.9.2.63/ecommerce/members/tambah_rekening_bank')]</value>
+      <webElementGuid>fd2b4bad-5b6a-4716-8bf9-74cf82cdf4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div/a</value>
+      <webElementGuid>5c60faf2-f264-4a86-b0ce-c73d8f8070fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://10.9.2.63/ecommerce/members/tambah_rekening_bank' and (text() = ' Tambahkan Rekening' or . = ' Tambahkan Rekening')]</value>
+      <webElementGuid>f5c087bc-530f-43c5-a987-1a5680b8d820</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

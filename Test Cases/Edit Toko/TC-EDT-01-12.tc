@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user mengosongi kontak toko</description>
+   <name>TC-EDT-01-12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25c5b490-3b98-4d64-96f2-871b3620034f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>520dd34f-a50b-4c38-80f8-a58601f52482</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>520dd34f-a50b-4c38-80f8-a58601f52482</id>
+      <masked>false</masked>
+      <name>kontak</name>
+   </variable>
+</TestCaseEntity>

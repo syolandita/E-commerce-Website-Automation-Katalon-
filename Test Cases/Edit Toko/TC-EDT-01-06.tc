@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengganti alamat menggunakan angka saja</description>
+   <name>TC-EDT-01-06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06875a0a-9d83-415a-8f7b-c1dcd5c45de1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>150c3cb7-fa3f-4338-b5fd-ac8f5320d1a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>150c3cb7-fa3f-4338-b5fd-ac8f5320d1a2</id>
+      <masked>false</masked>
+      <name>namaToko</name>
+   </variable>
+</TestCaseEntity>

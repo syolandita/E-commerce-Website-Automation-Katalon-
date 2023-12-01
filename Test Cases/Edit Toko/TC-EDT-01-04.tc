@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin megubah daerah pengiriman toko</description>
+   <name>TC-EDT-01-04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49fa01cc-053a-430d-8928-61d4983f2963</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d99bcf70-eb0e-47d7-bd71-564cfc41f208</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e167e47-1bbe-42e1-92c0-f9c347ddadc4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1a9e5a2f-91ba-41e3-bb74-4a8758025a6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jawa Barat'</defaultValue>
+      <description></description>
+      <id>d99bcf70-eb0e-47d7-bd71-564cfc41f208</id>
+      <masked>false</masked>
+      <name>prov</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kota Bogor'</defaultValue>
+      <description></description>
+      <id>3e167e47-1bbe-42e1-92c0-f9c347ddadc4</id>
+      <masked>false</masked>
+      <name>kota</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bogor Utara - Kota'</defaultValue>
+      <description></description>
+      <id>1a9e5a2f-91ba-41e3-bb74-4a8758025a6f</id>
+      <masked>false</masked>
+      <name>kecamatan</name>
+   </variable>
+</TestCaseEntity>

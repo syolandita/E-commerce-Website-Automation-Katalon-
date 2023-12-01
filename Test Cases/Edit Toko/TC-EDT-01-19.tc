@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengubah foto toko menggunakan format yang tidak diperbolehkan (format yang diperbolehkan; gif, jpg, jpeg, png) </description>
+   <name>TC-EDT-01-19</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5da1b1d9-654b-4143-bfd5-2722216c7371</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c5b08a6-b315-4915-864c-f4d434495980</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\sofi yolandita\\Pictures\\pdf.pdf'</defaultValue>
+      <description></description>
+      <id>6c5b08a6-b315-4915-864c-f4d434495980</id>
+      <masked>false</masked>
+      <name>uploadFoto</name>
+   </variable>
+</TestCaseEntity>

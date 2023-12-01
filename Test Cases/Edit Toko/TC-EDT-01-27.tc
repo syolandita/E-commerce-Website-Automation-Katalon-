@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengubah foto toko menggunakan format jpeg dengan ukuran kurang dari 1 MB</description>
+   <name>TC-EDT-01-27</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1eec232c-24f7-435a-9d95-db2037701571</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eeb4503e-30b9-4e74-aec2-706fe48241c2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\sofi yolandita\\Pictures\\gif.gif'</defaultValue>
+      <description></description>
+      <id>eeb4503e-30b9-4e74-aec2-706fe48241c2</id>
+      <masked>false</masked>
+      <name>fileUpload</name>
+   </variable>
+</TestCaseEntity>

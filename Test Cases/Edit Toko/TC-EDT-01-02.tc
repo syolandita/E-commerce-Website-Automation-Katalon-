@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengosongi nama toko</description>
+   <name>TC-EDT-01-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44a4bafd-26e5-4103-9909-8568f6ede864</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ec8b0d1-3bb0-4f3d-8b12-c95e6e688858</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ec8b0d1-3bb0-4f3d-8b12-c95e6e688858</id>
+      <masked>false</masked>
+      <name>namaToko</name>
+   </variable>
+</TestCaseEntity>

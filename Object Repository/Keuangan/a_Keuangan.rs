@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Keuangan</name>
+   <tag></tag>
+   <elementGuidId>e48f4a1d-e29a-4965-b586-b14512e14188</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Keuangan')])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ps-section__links.d-none.d-sm-block > li:nth-of-type(4) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>43bbbc70-5307-4564-a333-4be1c687fb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://10.9.2.63/ecommerce/members/withdraw</value>
+      <webElementGuid>e4a71497-2dd5-4be5-b6d6-b52354382127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Keuangan</value>
+      <webElementGuid>06383e19-e006-4b1f-b914-229503902503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;loaded&quot;]/div[@class=&quot;ps-vendor-dashboard pro&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ps-section__content&quot;]/ul[@class=&quot;ps-section__links d-none d-sm-block&quot;]/li[4]/a[1]</value>
+      <webElementGuid>8b99b467-925d-4a73-b251-a97e2ae55612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Keuangan')])[3]</value>
+      <webElementGuid>c51921dd-9641-49eb-9bb5-295e2541e631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Bank'])[3]/following::a[1]</value>
+      <webElementGuid>05d36cb3-ad26-4c3a-bdbb-b5d34d61b5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sosmed'])[3]/following::a[2]</value>
+      <webElementGuid>831133e3-3b2c-4842-8751-01ebeb7f19bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[3]/preceding::a[1]</value>
+      <webElementGuid>da9c2966-9a88-48ed-8278-de22de9c9297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembelian'])[3]/preceding::a[2]</value>
+      <webElementGuid>172818b6-4589-4f77-bf20-d4bb7f314a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://10.9.2.63/ecommerce/members/withdraw')])[3]</value>
+      <webElementGuid>a7382be9-4db1-4252-b5da-30c8880e1321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/ul/li[4]/a</value>
+      <webElementGuid>1be220e4-0d8c-4a9e-9fd6-11522b523d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://10.9.2.63/ecommerce/members/withdraw' and (text() = ' Keuangan' or . = ' Keuangan')]</value>
+      <webElementGuid>85f74e6c-bee5-4eef-9baa-30cd89d8e4ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

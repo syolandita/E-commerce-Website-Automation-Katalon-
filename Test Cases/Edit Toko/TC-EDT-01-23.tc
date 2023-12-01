@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user mengubah kontak toko dengan format +62</description>
+   <name>TC-EDT-01-23</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d0642c-5fb7-44b4-800a-1c1299200eb6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af713a82-c164-499d-9ec7-4b4f687d5e44</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'+628798989898'</defaultValue>
+      <description></description>
+      <id>af713a82-c164-499d-9ec7-4b4f687d5e44</id>
+      <masked>false</masked>
+      <name>kontak</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambah data bank tetapi mengosongi field atas nama</description>
+   <name>TC-DB-01-13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1295427-7aff-465d-9f17-4f4e34e5102f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>260da65e-fcda-4f94-9b19-4809914d1637</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>734e9c5f-3844-476f-9aeb-7596441d83cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6793472a-ce86-4aeb-b505-25d4b44f0205</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BRI'</defaultValue>
+      <description></description>
+      <id>260da65e-fcda-4f94-9b19-4809914d1637</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+   <variable>
+      <defaultValue>'0987609874'</defaultValue>
+      <description></description>
+      <id>734e9c5f-3844-476f-9aeb-7596441d83cc</id>
+      <masked>false</masked>
+      <name>norek</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6793472a-ce86-4aeb-b505-25d4b44f0205</id>
+      <masked>false</masked>
+      <name>atasnama</name>
+   </variable>
+</TestCaseEntity>

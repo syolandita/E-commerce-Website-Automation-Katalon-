@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sorting desc judul berita</description>
+   <name>TC-BRT-01-17B</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f10ac466-0b1f-462f-b21a-88ef8b066276</testCaseGuid>
+</TestCaseEntity>

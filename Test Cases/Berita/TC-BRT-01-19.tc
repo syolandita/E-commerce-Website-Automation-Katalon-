@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>klik next / previouss</description>
+   <name>TC-BRT-01-19</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>288cce61-3f20-4751-aa41-1a6bc529ebdf</testCaseGuid>
+</TestCaseEntity>

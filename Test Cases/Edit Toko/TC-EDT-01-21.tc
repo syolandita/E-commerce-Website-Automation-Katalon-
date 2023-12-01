@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user mencari kurir dengan keyword yang tidak terdaftar </description>
+   <name>TC-EDT-01-21</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b39144c5-3f87-480a-a71b-ba1061c287c4</testCaseGuid>
+</TestCaseEntity>

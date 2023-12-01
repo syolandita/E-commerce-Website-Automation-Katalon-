@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengisi kolom deskirpsi mengandung emoji</description>
+   <name>TC-EDT-01-15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4bff982-5eaf-47c0-a91e-9c072373fc77</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf1614fe-be17-4134-b3ca-cd6401670cdc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'beli di toko saya ya 👍👍💵💸'</defaultValue>
+      <description></description>
+      <id>bf1614fe-be17-4134-b3ca-cd6401670cdc</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+</TestCaseEntity>

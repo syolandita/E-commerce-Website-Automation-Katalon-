@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user menekan tombol kebijakan privasi</description>
+   <name>TC-DFTR-01-21</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b40983d0-3ed6-4e7c-8d25-7c8d4fffe70f</testCaseGuid>
+</TestCaseEntity>

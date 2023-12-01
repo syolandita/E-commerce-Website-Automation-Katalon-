@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_dropDownDonasi</name>
+   <tag></tag>
+   <elementGuidId>06aa1fcc-a84f-44ca-a1ee-d900b760770b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Report'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>56331c1b-dda3-4071-9a56-a30d95e6ede5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://10.9.2.63/ecommerce/#</value>
+      <webElementGuid>c372f665-b6a1-4c56-970f-3874714c3676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Donasi</value>
+      <webElementGuid>64e89196-541c-42b8-a546-59bf7764986c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;loaded&quot;]/header[@class=&quot;header header--1&quot;]/nav[@class=&quot;navigation&quot;]/div[@class=&quot;ps-container&quot;]/div[@class=&quot;navigation__right&quot;]/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item-has-children&quot;]/a[1]</value>
+      <webElementGuid>9a97636c-6d47-4cbe-8e8c-45611003a229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders Report'])[1]/following::a[1]</value>
+      <webElementGuid>6b5da088-1fd2-4143-bcaf-5fc2ff36049c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Orders'])[1]/following::a[2]</value>
+      <webElementGuid>808bc07c-2f87-45f4-8a65-e78f15e5e1b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedekah Online'])[1]/preceding::a[1]</value>
+      <webElementGuid>b67a2fbb-4a91-4b18-9710-be8a9f213361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://10.9.2.63/ecommerce/#')])[2]</value>
+      <webElementGuid>4577b385-63fc-419a-adaa-3c3c421f866c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div[2]/ul/li[4]/a</value>
+      <webElementGuid>8680e94e-657f-49f7-b5d4-daa3f941f6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://10.9.2.63/ecommerce/#' and (text() = 'Donasi' or . = 'Donasi')]</value>
+      <webElementGuid>d9614e7d-e188-4ee7-854e-799387a82882</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

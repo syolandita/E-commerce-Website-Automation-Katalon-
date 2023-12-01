@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user mengosongi alamat</description>
+   <name>TC-EDT-01-09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c9f178-df33-4a26-8362-f2e51521b6f9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3d44e49-29c8-40b9-a9b5-8d257a741cc9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3d44e49-29c8-40b9-a9b5-8d257a741cc9</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>

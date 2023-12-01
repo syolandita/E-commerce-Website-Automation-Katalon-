@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin megosongi kolom deskripsi</description>
+   <name>TC-EDT-01-16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e0745b8-a7a0-4c32-9bcd-ab7584956a4f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>520dd34f-a50b-4c38-80f8-a58601f52482</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>520dd34f-a50b-4c38-80f8-a58601f52482</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+</TestCaseEntity>

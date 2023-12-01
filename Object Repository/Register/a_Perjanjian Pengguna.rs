@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Perjanjian Pengguna</name>
+   <tag></tag>
+   <elementGuidId>5033befd-4c53-4c78-886e-c5ea6b06db2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='register']/form/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2bef1e45-fba8-485a-82f3-8f6ebbd983f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_BLANK</value>
+      <webElementGuid>ab5223ea-f066-4781-9ffc-851e06891552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://10.9.2.63/ecommerce/halaman/detail/perjanjian-pengguna</value>
+      <webElementGuid>400176fa-8aa8-4f09-aafc-09a167a28e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perjanjian Pengguna</value>
+      <webElementGuid>58ca8bac-e9ec-4a88-81d0-e50dc280a687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register&quot;)/form[@class=&quot;auth&quot;]/div[@class=&quot;ps-form__content&quot;]/p[1]/a[1]</value>
+      <webElementGuid>f4b1d285-34a0-4e65-8396-a6a03d9b6e35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='register']/form/div/p/a</value>
+      <webElementGuid>eb31ff75-c144-49cf-b952-15400d6c4b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Perjanjian Pengguna')]</value>
+      <webElementGuid>1d14201e-11ce-41bf-9329-6814b86a13f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayo Gabung dan Daftar Sekarang juga!'])[1]/following::a[1]</value>
+      <webElementGuid>2e218e8a-93de-4972-8d4d-21dd8461848d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>83311b19-0cff-4b30-abeb-1d7b02f422ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::a[2]</value>
+      <webElementGuid>4a54bc75-40c7-49fb-a5a0-5d0ef65e1459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Perjanjian Pengguna']/parent::*</value>
+      <webElementGuid>9d853c1b-0922-4c91-bfd6-e590759f61d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://10.9.2.63/ecommerce/halaman/detail/perjanjian-pengguna')]</value>
+      <webElementGuid>8f29cd2d-f756-4580-8d56-6ecfcae4813b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>90dd5302-74d0-4fe3-b810-88a9106f5353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://10.9.2.63/ecommerce/halaman/detail/perjanjian-pengguna' and (text() = 'Perjanjian Pengguna' or . = 'Perjanjian Pengguna')]</value>
+      <webElementGuid>dc6a4df6-46af-4397-a04b-c836c667f933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

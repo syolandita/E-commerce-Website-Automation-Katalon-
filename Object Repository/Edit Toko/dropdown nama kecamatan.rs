@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown nama kecamatan</name>
+   <tag></tag>
+   <elementGuidId>40c6c16c-d7f2-488e-96e4-e9606999ed11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list_kecamatan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='list_kecamatan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e3b37902-15b0-44c8-ae48-7eae8bab591b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-mini</value>
+      <webElementGuid>0b34bb96-ef09-472a-9352-00a3b07483ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kecamatan_id</value>
+      <webElementGuid>13aa8923-1898-48e9-8c31-4c31be9c5b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>list_kecamatan</value>
+      <webElementGuid>0421732f-8748-4d2c-99f0-49ad960c46a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Pilih Kecamatan -BerbahCangkringanDepokGampingGodeanKalasanMinggirMlatiMoyudanNgaglikNgemplakPakemPrambananSeyeganSlemanTempelTuri</value>
+      <webElementGuid>b5387574-c657-4a57-ab8d-ef80e92010e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list_kecamatan&quot;)</value>
+      <webElementGuid>4c07662a-1e79-4524-8bc8-2cec0159c1fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='list_kecamatan']</value>
+      <webElementGuid>9eaded2c-8e43-4262-b57c-d18ee5e95874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daerah Pengiriman'])[1]/following::select[3]</value>
+      <webElementGuid>e0425b6a-729e-4507-a869-56c292c9b859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Toko'])[1]/following::select[3]</value>
+      <webElementGuid>4a111b6a-6b91-4fbc-b22a-8021eb5b5b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lengkap'])[1]/preceding::select[1]</value>
+      <webElementGuid>337a548f-c547-4fb6-86b2-f29ea1f231da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak Toko'])[1]/preceding::select[1]</value>
+      <webElementGuid>8baf8ea4-ef79-4654-bc36-05a4b896c963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>6babef03-08a1-46ec-8b17-7812e01ed4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'kecamatan_id' and @id = 'list_kecamatan' and (text() = '- Pilih Kecamatan -BerbahCangkringanDepokGampingGodeanKalasanMinggirMlatiMoyudanNgaglikNgemplakPakemPrambananSeyeganSlemanTempelTuri' or . = '- Pilih Kecamatan -BerbahCangkringanDepokGampingGodeanKalasanMinggirMlatiMoyudanNgaglikNgemplakPakemPrambananSeyeganSlemanTempelTuri')]</value>
+      <webElementGuid>084cd530-ef21-4225-986f-3c45dce5c232</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

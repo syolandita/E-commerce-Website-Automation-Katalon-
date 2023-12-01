@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user memasukkan norek lebih dari 15</description>
+   <name>TC-DB-01-15</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e96713db-2ae5-4f91-b832-7266ba5c85e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f997cfe-b52c-4ee6-92c0-e935bacec801</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7a86d06-b711-4c6b-a009-22156160f98d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2edde69-fe52-41cd-831d-a04e2798bb2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BCA'</defaultValue>
+      <description></description>
+      <id>3f997cfe-b52c-4ee6-92c0-e935bacec801</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890111213'</defaultValue>
+      <description></description>
+      <id>b7a86d06-b711-4c6b-a009-22156160f98d</id>
+      <masked>false</masked>
+      <name>norek</name>
+   </variable>
+   <variable>
+      <defaultValue>'daphne'</defaultValue>
+      <description></description>
+      <id>b2edde69-fe52-41cd-831d-a04e2798bb2f</id>
+      <masked>false</masked>
+      <name>atasnama</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user menekan &quot;Batalkan?&quot; pada halaman lupa password</description>
+   <name>TC-DFTR-02-11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9a1300b-4531-4378-b53e-26ae613b6fba</testCaseGuid>
+</TestCaseEntity>

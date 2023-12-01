@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menghapus data bank</description>
+   <name>TC-DB-01-08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2dfaec50-2acc-4a4c-93dc-441798784b9e</testCaseGuid>
+</TestCaseEntity>

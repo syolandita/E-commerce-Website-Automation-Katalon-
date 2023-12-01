@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengisi kontak toko dengan nomor hp lebih dari 13 digit</description>
+   <name>TC-EDT-01-24</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a637e703-9d6e-4af4-87e6-531fd711ef7b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5538286-1f01-4a60-a145-a7197ae0a583</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'08976567800000'</defaultValue>
+      <description></description>
+      <id>e5538286-1f01-4a60-a145-a7197ae0a583</id>
+      <masked>false</masked>
+      <name>kontakToko</name>
+   </variable>
+</TestCaseEntity>

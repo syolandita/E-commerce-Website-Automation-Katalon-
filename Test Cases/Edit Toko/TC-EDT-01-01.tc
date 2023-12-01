@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengubah nama toko mengandung angka dan special character</description>
+   <name>TC-EDT-01-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49031333-39f3-466c-aeb2-0a16b53b26df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>150c3cb7-fa3f-4338-b5fd-ac8f5320d1a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tokoku123_'</defaultValue>
+      <description></description>
+      <id>150c3cb7-fa3f-4338-b5fd-ac8f5320d1a2</id>
+      <masked>false</masked>
+      <name>namaToko</name>
+   </variable>
+</TestCaseEntity>

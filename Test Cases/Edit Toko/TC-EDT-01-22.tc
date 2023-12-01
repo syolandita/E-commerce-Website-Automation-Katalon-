@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menginputkan field nama too, kontak toko, alamat lengkap, dan keterangan hanya menggunakan spasi</description>
+   <name>TC-EDT-01-22</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2768aa9-e0ca-4adc-a342-95768db22a4a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>150c3cb7-fa3f-4338-b5fd-ac8f5320d1a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9da5473c-e479-4827-bf9f-ff8f1ccc1f6b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e5cfd82-15bf-4ce9-9b49-eaeba39ef7be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50ce48d4-64f9-441e-9cc3-3c7993dbde46</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>' '</defaultValue>
+      <description></description>
+      <id>150c3cb7-fa3f-4338-b5fd-ac8f5320d1a2</id>
+      <masked>false</masked>
+      <name>namaToko</name>
+   </variable>
+   <variable>
+      <defaultValue>' '</defaultValue>
+      <description></description>
+      <id>9da5473c-e479-4827-bf9f-ff8f1ccc1f6b</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+   <variable>
+      <defaultValue>' '</defaultValue>
+      <description></description>
+      <id>3e5cfd82-15bf-4ce9-9b49-eaeba39ef7be</id>
+      <masked>false</masked>
+      <name>kontak</name>
+   </variable>
+   <variable>
+      <defaultValue>' '</defaultValue>
+      <description></description>
+      <id>50ce48d4-64f9-441e-9cc3-3c7993dbde46</id>
+      <masked>false</masked>
+      <name>deskirpsi</name>
+   </variable>
+</TestCaseEntity>

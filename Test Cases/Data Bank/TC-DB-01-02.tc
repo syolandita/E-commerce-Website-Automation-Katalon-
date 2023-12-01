@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambah data bank dengan menekan &quot;tambahkan rekening&quot; pada halaman data bank</description>
+   <name>TC-DB-01-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7da6b66-86c1-4856-93c8-5554ff04668d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69ef1135-59c2-4bd4-be01-67def8b012b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2ac9844-0282-4be6-aabc-e04174c65479</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bad55f47-3372-4b2f-be11-598dd78b3a67</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BRI'</defaultValue>
+      <description></description>
+      <id>69ef1135-59c2-4bd4-be01-67def8b012b8</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+   <variable>
+      <defaultValue>'123400789111'</defaultValue>
+      <description></description>
+      <id>f2ac9844-0282-4be6-aabc-e04174c65479</id>
+      <masked>false</masked>
+      <name>norek</name>
+   </variable>
+   <variable>
+      <defaultValue>'simon'</defaultValue>
+      <description></description>
+      <id>bad55f47-3372-4b2f-be11-598dd78b3a67</id>
+      <masked>false</masked>
+      <name>atasnama</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user login menggunakan email yang sudah terdaftar</description>
+   <name>TC-DFTR-02-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27b42ae7-107c-4dd6-b7f7-5d718bcf6444</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc3a1547-5190-4bc9-b325-01940b66cb52</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56d19144-ecf2-49d6-98b0-183c10a87307</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hyacinth@yahu.com'</defaultValue>
+      <description></description>
+      <id>bc3a1547-5190-4bc9-b325-01940b66cb52</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'+wFSVlolvcJfO6os+KmCCg=='</defaultValue>
+      <description></description>
+      <id>56d19144-ecf2-49d6-98b0-183c10a87307</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

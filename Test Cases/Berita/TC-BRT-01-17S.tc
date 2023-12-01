@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sorting desc status</description>
+   <name>TC-BRT-01-17S</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efdd4fa2-524c-4309-b682-82ba2320a25e</testCaseGuid>
+</TestCaseEntity>

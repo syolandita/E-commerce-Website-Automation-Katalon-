@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengisi kontak toko dengan nomor hp kurang dari 10 digit </description>
+   <name>TC-EDT-01-10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b07a1a0-b308-4b90-8265-c58b4a5f70b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ce0ffb7-c0ca-4f83-8aaf-76bd4cb035dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'089765678'</defaultValue>
+      <description></description>
+      <id>4ce0ffb7-c0ca-4f83-8aaf-76bd4cb035dd</id>
+      <masked>false</masked>
+      <name>kontakToko</name>
+   </variable>
+</TestCaseEntity>

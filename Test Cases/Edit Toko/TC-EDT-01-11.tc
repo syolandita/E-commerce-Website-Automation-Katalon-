@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengisi kontak toko dengan huruf dan special character</description>
+   <name>TC-EDT-01-11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a40ef239-f664-4bc3-a089-80c11b665f9f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c47d21e8-a9ea-4bc3-ad72-4ebf14ef2c47</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'09672917ert3271@#'</defaultValue>
+      <description></description>
+      <id>c47d21e8-a9ea-4bc3-ad72-4ebf14ef2c47</id>
+      <masked>false</masked>
+      <name>kontak</name>
+   </variable>
+</TestCaseEntity>

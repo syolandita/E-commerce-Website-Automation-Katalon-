@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin mengubah foto toko menggunakan format png dengan ukuran kurang dari 1 MB</description>
+   <name>TC-EDT-01-26</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>505ef4ff-3748-46c9-8d57-12f83fb68adb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb4c5f11-6473-4851-8c21-2c56a3b51d2a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\sofi yolandita\\Pictures\\png.png'</defaultValue>
+      <description></description>
+      <id>fb4c5f11-6473-4851-8c21-2c56a3b51d2a</id>
+      <masked>false</masked>
+      <name>fileUpload</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin membuat akun dengan memasukkan password mengandung spasi</description>
+   <name>TC-DFTR-01-11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b7d6573-2345-4b72-a068-bdac2f96fb25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cf6192ac-d66b-469f-b7fd-3f1943339414</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'wanita'</defaultValue>
+      <description></description>
+      <id>cf6192ac-d66b-469f-b7fd-3f1943339414</id>
+      <masked>false</masked>
+      <name>jenisKelamin</name>
+   </variable>
+</TestCaseEntity>

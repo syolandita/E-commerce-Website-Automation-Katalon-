@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user menekan tombol &quot;lupa password&quot; dan mengisi field email dan no handphone yang tidak terdaftar</description>
+   <name>TC-DFTR-02-08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7c929dc-1b54-4e01-a0cd-1a0efe652eca</testCaseGuid>
+</TestCaseEntity>

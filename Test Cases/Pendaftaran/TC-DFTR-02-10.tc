@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user menekan &quot;Kembali Login&quot; pada halaman lupa password</description>
+   <name>TC-DFTR-02-10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a551ab2-ff48-484f-8de7-e4d0196aee51</testCaseGuid>
+</TestCaseEntity>

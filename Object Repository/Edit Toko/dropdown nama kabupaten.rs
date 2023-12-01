@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown nama kabupaten</name>
+   <tag></tag>
+   <elementGuidId>5f3b91f0-26c7-49e4-99e6-b6033dd9fd2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list_kotakab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='list_kotakab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0c7a84ec-b6c0-47ee-b256-b9d13908b54a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-mini</value>
+      <webElementGuid>7dc127ee-0d87-4bdc-b94b-c3f449228060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>kota_id</value>
+      <webElementGuid>dba4dee1-80db-45d1-b1e9-74aa4ba69a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>list_kotakab</value>
+      <webElementGuid>cea8f997-dbb6-4a95-a1e0-c5f8cbc69fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Pilih Kota / Kabupaten -Kabupaten BantulKabupaten Gunung KidulKabupaten Kulon ProgoKabupaten SlemanKota Yogyakarta</value>
+      <webElementGuid>86955d26-0f96-4122-804c-5c5c3fd5feb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list_kotakab&quot;)</value>
+      <webElementGuid>cd7bb52b-6526-48e1-8c62-882647fcb5a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='list_kotakab']</value>
+      <webElementGuid>ad1344bd-55e4-4fb0-9772-1111ddf4540c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daerah Pengiriman'])[1]/following::select[2]</value>
+      <webElementGuid>eac25cb6-49a9-4d4f-9a9c-c65774efd467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Toko'])[1]/following::select[2]</value>
+      <webElementGuid>ae48fd4a-ad56-4f12-a0f0-ac3b6b7620de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lengkap'])[1]/preceding::select[2]</value>
+      <webElementGuid>e13028cc-041e-4e44-92e8-044a44d462ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak Toko'])[1]/preceding::select[2]</value>
+      <webElementGuid>3d348171-79e8-46f8-8311-5fff32109f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>25187a29-812a-4c67-a107-75d01fc92e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'kota_id' and @id = 'list_kotakab' and (text() = '- Pilih Kota / Kabupaten -Kabupaten BantulKabupaten Gunung KidulKabupaten Kulon ProgoKabupaten SlemanKota Yogyakarta' or . = '- Pilih Kota / Kabupaten -Kabupaten BantulKabupaten Gunung KidulKabupaten Kulon ProgoKabupaten SlemanKota Yogyakarta')]</value>
+      <webElementGuid>986e6a5f-8c4a-4aaa-9547-bac0550c4cae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

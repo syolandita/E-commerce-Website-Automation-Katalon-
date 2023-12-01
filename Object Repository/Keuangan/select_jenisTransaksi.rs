@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_jenisTransaksi</name>
+   <tag></tag>
+   <elementGuidId>23110f39-ca65-42f1-ba9f-e56c09cbfcf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='jenis']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#jenis</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>158fdda2-2201-4d96-8535-6db0fc078bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis</value>
+      <webElementGuid>d52d61b5-34b4-4da7-acce-37c96397c087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jenis</value>
+      <webElementGuid>73ff4b75-2869-4548-895f-43db4b6e3396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-mini</value>
+      <webElementGuid>878ac91e-0109-4b7b-88fd-53a9f4a9253d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    - Pilih -Debit (Withdraw)Kredit (Deposit)</value>
+      <webElementGuid>b074c220-4d80-4892-a7d3-187dda296431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenis&quot;)</value>
+      <webElementGuid>213ba891-fca7-40d3-bf80-a640c34b7edc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='jenis']</value>
+      <webElementGuid>0bd53cc1-f1b2-4149-b0ce-cbd0d5679334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Transaksi'])[1]/following::select[1]</value>
+      <webElementGuid>a9107aed-69fb-4446-a631-a663a8784377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saldo Anda'])[1]/following::select[1]</value>
+      <webElementGuid>f015d0f3-c410-4ca0-8d58-8fb41c523f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nominal (Rp)'])[1]/preceding::select[1]</value>
+      <webElementGuid>c32183d5-4d83-414a-a3d0-9fa6e313b092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw Fee'])[1]/preceding::select[1]</value>
+      <webElementGuid>3ebc9305-de0a-41f1-855d-369b98ddf2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>15b1f37c-bba7-4830-8815-e9c6bff8437e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis' and @id = 'jenis' and (text() = '
+                    - Pilih -Debit (Withdraw)Kredit (Deposit)' or . = '
+                    - Pilih -Debit (Withdraw)Kredit (Deposit)')]</value>
+      <webElementGuid>f19a92bb-07fd-4031-920f-80ff7e38cdf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

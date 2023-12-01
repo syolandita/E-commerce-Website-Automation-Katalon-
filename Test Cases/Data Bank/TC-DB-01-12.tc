@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambah data bank tetapi mengosongi field nomor rekening</description>
+   <name>TC-DB-01-12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75137a19-52b0-40c9-b3af-d00f75d150dd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>024b9f72-af07-460d-9f7d-fa47a59efa95</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>959540d4-bc10-4263-a618-5024d540cdd9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c7feabe-ba79-4751-b3e2-bc10be8df31b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'BRI'</defaultValue>
+      <description></description>
+      <id>024b9f72-af07-460d-9f7d-fa47a59efa95</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>959540d4-bc10-4263-a618-5024d540cdd9</id>
+      <masked>false</masked>
+      <name>norek</name>
+   </variable>
+   <variable>
+      <defaultValue>'Daphne'</defaultValue>
+      <description></description>
+      <id>4c7feabe-ba79-4751-b3e2-bc10be8df31b</id>
+      <masked>false</masked>
+      <name>atasnama</name>
+   </variable>
+</TestCaseEntity>

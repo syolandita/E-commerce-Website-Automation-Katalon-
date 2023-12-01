@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>center_verfyHalamanReg</name>
+   <tag></tag>
+   <elementGuidId>70213afb-29e5-45c8-b102-8d9b396659cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='register']/form/div/h5/center</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.auth > div.ps-form__content > h5 > center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>13e023f0-fb95-4bc1-b953-dcb536d59494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ayo Gabung dan Daftar Sekarang juga!</value>
+      <webElementGuid>68be153f-9717-4084-85df-9a9af7da0f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register&quot;)/form[@class=&quot;auth&quot;]/div[@class=&quot;ps-form__content&quot;]/h5[1]/center[1]</value>
+      <webElementGuid>fc425b9d-6438-4b0e-a2af-be06479c93eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='register']/form/div/h5/center</value>
+      <webElementGuid>3ad0bdbd-8934-4058-8e3f-1a5c1aae827c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[3]/following::center[1]</value>
+      <webElementGuid>4637e2d5-af06-440b-8871-3ee48892c8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat saya'])[2]/following::center[1]</value>
+      <webElementGuid>7cfd2dcd-dee8-4edf-a906-10d00493bd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perjanjian Pengguna'])[1]/preceding::center[1]</value>
+      <webElementGuid>206d8138-465a-415c-aca0-b3c884c4fc10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ayo Gabung dan Daftar Sekarang juga!']/parent::*</value>
+      <webElementGuid>3e89d983-5e44-4fb7-82ab-2d9923dbfeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/div/h5/center</value>
+      <webElementGuid>d3fec8a7-a200-441e-a6fc-77fb9393e40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//center[(text() = 'Ayo Gabung dan Daftar Sekarang juga!' or . = 'Ayo Gabung dan Daftar Sekarang juga!')]</value>
+      <webElementGuid>ca778359-0669-4cba-9d2b-fbe850b32bab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
